@@ -1,4 +1,10 @@
-
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #3B3C36;
+    color: #555;
+}
 h1,
 h2 {
     color: #007bff;
@@ -48,4 +54,9 @@ h2 {
     padding: 5px 10px;
     margin: 5px 5px 5px 0;
     border-radius: 4px;
+}
+img {
+    max-width: 200px;
+    height: 200px;
+    border-radius: 175px;
 }
